@@ -22,8 +22,8 @@ MEDV - Median value of owner-occupied homes in $1000's
 1) Get the data
 2) Data visualization
 3) Scaling
-4) Principal Components Analysis
-5) Train-Test-Split
+4) Train-Test-Split
+5) Principal Components Analysis
 6) Linear Regression and model training
 7) Cross-Validation
 8) Model Evaluation on Test Set
